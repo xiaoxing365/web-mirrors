@@ -1,4 +1,4 @@
-# 本仓库为了（我）记不住网站的镜像（加速）域名而创
+# 收集各网站的镜像网址、加速域名及使用方法
 
 访问镜像:
 [https://github.com/xiaoxing365/web-mirrors/mirrors.md](./mirrors.md)
